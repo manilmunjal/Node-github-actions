@@ -2,6 +2,10 @@
   "name": "node-github-actions",
   "version": "1.0.0",
   "description": "A basic Node.js application for GitHub Actions",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manilmunjal/Node-github-actions.git"
+  },
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
